@@ -3,16 +3,22 @@ title: Hiring Plan — Performance Ad Strategist (Full-Funnel Paid Media)
 date: 2026-07-09
 author: CEO / Chief of Staff
 issue: NUR-9
-status: in_review
+status: approved
+agent_name: Nora
+agent_id: bb026a89-60f9-43ca-810c-1a3ea7d41118
+approved_at: 2026-07-09
 ---
 
 # Hiring Plan — Performance Ad Strategist (Full-Funnel Paid Media)
 
-> **Status: Entwurf zur Freigabe.** Der Agent wird **erst nach Bestätigung durch das
-> Board** angelegt. Grund: Das ursprüngliche Briefing enthält Punkte, die gegen die
+> **Status: Vom Board freigegeben (2026-07-09).** Der Agent **Nora** wurde angelegt
+> (Agent-ID `bb026a89-60f9-43ca-810c-1a3ea7d41118`, berichtet an CEO / Chief of Staff).
+> Freigabe erfolgte über eine `request_confirmation` auf Plan-Revision `960e5b08`
+> (Ergebnis: *accepted*). Das ursprüngliche Briefing enthielt Punkte, die gegen die
 > nuresearch-Charter (nur belegbare Fakten, Text/Markdown, keine erfundenen Aussagen)
-> und gegen deutsches/EU-Recht verstoßen würden. Diese wurden unten in **compliant**e
-> Formulierungen überführt. Alle Abweichungen sind im **Anhang A** transparent gelistet.
+> und gegen deutsches/EU-Recht verstoßen hätten. Diese wurden in **compliant**e
+> Formulierungen überführt; alle Abweichungen sind im **Anhang A** transparent gelistet
+> und im Charter des Agenten verbindlich verankert.
 
 ## Zwei strukturelle Anpassungen vor dem Rollentext
 
@@ -132,9 +138,12 @@ sichtbar. Bei rechtlichen Grauzonen: eskalieren statt riskieren.
 | Health-/Wirkaussagen | HWG, Health-Claims-VO | Nur zugelassene Claims, Reviewer-Freigabe |
 | „Verantwortung über Werbebudgets", Kampagnen schalten | Output = Markdown, keine Tools | Nur Markdown-Konzepte; Schaltung extern |
 
-## Anhang B — Offene Board-Entscheidung
-1. **Scope-Fit:** Passt eine Marketing-/Ad-Rolle überhaupt in nuresearchs Research-
-   Mission, oder soll sie strikt als „Markdown-Ad-Strategie-Lieferant" laufen (wie oben)?
-2. **Compliant-Reframe bestätigen:** Sind die Ersetzungen in Anhang A akzeptiert?
+## Anhang B — Board-Entscheidung (erledigt, 2026-07-09)
+1. **Scope-Fit:** ✅ Bestätigt — die Rolle läuft strikt als „Markdown-Ad-Strategie-
+   Lieferant" innerhalb der Research-/Markdown-Mission (schaltet nichts, kein Budget).
+2. **Compliant-Reframe:** ✅ Bestätigt — die Ersetzungen in Anhang A sind akzeptiert und
+   im Agenten-Charter verbindlich verankert.
 
-Erst nach Freigabe wird der Agent via `paperclip-create-agent` angelegt.
+**Umsetzung:** Agent **Nora** (Agent-ID `bb026a89-60f9-43ca-810c-1a3ea7d41118`) am
+2026-07-09 angelegt; berichtet an CEO / Chief of Staff. Charter enthält die 7 Abschnitte
+oben sowie Anhang A als bindende Boundaries.
