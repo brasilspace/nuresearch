@@ -8,7 +8,14 @@
 >
 > **Fakt/Annahme-Trennung:** Regulatorische Aussagen und Marktfakten sind mit Quelle belegt. Framework-/Kreativentscheidungen sind als *Einordnung (Fachurteil)* gekennzeichnet.
 >
-> **Pflicht-Review:** Ad-Copy darf **nicht** extern ausgeliefert werden ohne Freigabe durch Fact-Checker & Regulatory Reviewer (bzw. bis dahin CEO-Signal). Dieses Dokument ist ein **Entwurf zur Review**, keine Freigabe.
+> **Pflicht-Review:** Ad-Copy darf **nicht** extern ausgeliefert werden ohne Freigabe durch Fact-Checker & Regulatory Reviewer (bzw. bis dahin CEO-Signal).
+
+> ## ✅ Freigabe-Vermerk (Decision Log)
+> **2026-07-13 — CEO/Chief of Staff hat die Confirmation-Card angenommen** (Interaction `2c2afb4b`, Status `accepted`). Damit sind **zwei** Entscheidungen bestätigt:
+> 1. **Regulatory-Review-Signal erteilt.** Da noch kein dedizierter Fact-Checker/Regulatory Reviewer existiert, gibt der CEO laut Charter das Review-Signal. Die Ad-Copy in §10 gilt damit **charter-seitig freigegeben** — **jedoch nur vorbehaltlich der drei produktseitigen Verifikationen in §13.3** (reale EPA+DHA-Dosis ≥ 250 mg/Portion, exakter Claim-Wortlaut je Markt, finale Disclaimer-Platzierung). Ohne diese Verifikation **keine** externe Schaltung.
+> 2. **Ethnie-Targeting gestrichen.** Ausspielung ausschließlich über **Alter 60+, Geo (Nordstaaten), Interessen, Lookalikes**; Casting bleibt authentisch. Ethnie ist **kein** Werbe-/Zielkriterium. → §7 abgeschlossen.
+>
+> Restrisiko/Verantwortungsübergang: Die **tatsächliche Schaltung** liegt beim Kunden bzw. einer beauftragten Agentur (außerhalb dieses Deliverables). Nora schaltet nicht und gibt kein Budget aus.
 
 ---
 
@@ -118,7 +125,9 @@ Grund: FDA/DSHEA verbietet Krankheitsclaims für Supplements (21 CFR 101.93); HW
 
 ---
 
-## 7. Targeting- & Casting-Hinweis (Eskalationspunkt) 🟧
+## 7. Targeting- & Casting-Hinweis ✅ (CEO-Entscheidung 2026-07-13: Ethnie-Targeting gestrichen)
+
+> **Entscheidung (2026-07-13):** CEO hat bestätigt — **Ethnie-Targeting wird gestrichen.** Ausspielung über Alter 60+, Geo (Nordstaaten/DMA), Interessen, Lookalikes. Casting authentisch. Damit ist dieser Eskalationspunkt **geschlossen.**
 
 **Vorgabe „weiß" als Zielkriterium ist nicht umsetzbar/empfehlenswert:**
 - Große Plattformen (Meta) haben **seit Januar 2022 Detailtargeting nach ethnischer Zugehörigkeit, Religion, sexueller Orientierung etc. entfernt.** Ein Targeting „nach Ethnie" ist dort **technisch nicht verfügbar**. Quelle: Meta, „Preparing for Upcoming Removal of Certain Ad Targeting Options" (wirksam ab 19.01.2022). Stand 2026-07-09.
@@ -219,10 +228,10 @@ Grund: FDA/DSHEA verbietet Krankheitsclaims für Supplements (21 CFR 101.93); HW
 
 ## 13. Offene Punkte & nächste Schritte
 
-1. **Eskalation CEO:** Ethnie-Targeting streichen? (§7) — Empfehlung: ja, über Alter/Geo/Interessen/Lookalikes.
-2. **Regulatory-Review-Freigabe** der Ad-Copy **vor** jeder externen Auslieferung (Fact-Checker/Regulatory Reviewer; bis dahin CEO-Signal).
-3. **Produkt-Fakten zu verifizieren vor Schaltung:** tatsächliche EPA+DHA-Dosis je Portion (muss ≥ 250 mg für den Herz-Claim sein), exakter zugelassener Claim-Wortlaut je Zielmarkt, finale Disclaimer-Platzierung.
-4. **BoF-Asset** (Conversion mit echtem Angebot) ist separat zu konzipieren — nicht Teil dieses Deliverables.
+1. ✅ **Erledigt (CEO 2026-07-13):** Ethnie-Targeting gestrichen (§7) — Ausspielung über Alter/Geo/Interessen/Lookalikes.
+2. ✅ **Erledigt (CEO 2026-07-13):** Regulatory-Review-Signal erteilt. Ad-Copy charter-seitig freigegeben — **vorbehaltlich Punkt 3.**
+3. ⬜ **OFFEN — Gate vor externer Schaltung (liegt beim Kunden/Produktseite, nicht bei Nora):** tatsächliche EPA+DHA-Dosis je Portion verifizieren (muss ≥ 250 mg für den Herz-Claim sein), exakten zugelassenen Claim-Wortlaut je Zielmarkt bestätigen, finale Disclaimer-Platzierung. **Ohne diese Verifikation keine Schaltung.**
+4. ⬜ **BoF-Asset** (Conversion mit echtem Angebot) ist separat zu konzipieren — nicht Teil dieses Deliverables. Auf CEO-Zuweisung als Folge-Issue.
 
 ---
 
